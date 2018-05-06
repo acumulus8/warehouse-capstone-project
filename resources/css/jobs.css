@@ -7,16 +7,22 @@
   padding: 3.75rem 11.75rem 7.5625rem 11.75rem;
 }
 
+.jobs-heading {
+  margin-bottom: 7rem;
+  font-size: 5rem;
+}
+
 .jobs h3 {
-  margin-bottom: 1rem;
-  font-size: inherit;
+  margin-bottom: 3rem;
+  font-size: 2rem;
 }
 
 form {
   display: grid;
-  grid-template-columns: repeat(2, 2fr) 1fr;
+  grid-template-columns: 2fr 1fr;
   align-items: flex-end;
-  margin-bottom: 3.125rem;
+  margin-bottom: 7rem;
+  grid-gap: 1.2rem;
 }
 
 #main form .button {
@@ -35,7 +41,7 @@ form {
 
 .job h4 {
   padding-bottom: .5rem;
-  font-size: inherit;
+  font-size: 1.5rem;
   line-height: 1.2;
 }
 

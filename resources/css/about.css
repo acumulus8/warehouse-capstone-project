@@ -7,7 +7,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  font-size: inherit;
+  font-size: 3rem;
   font-stretch: condensed;
   color: hsla(0, 100%, 100%, 1);
 
@@ -19,13 +19,13 @@
 }
 
 .about h3 {
-  margin-bottom: 1rem;
-  font-size: inherit;
+  margin-bottom: 2rem;
+  font-size: 2rem;
 }
 
 .about p {
   padding-bottom: 2rem;
-  font-size: inherit;
+  font-size: 1.2rem;
   line-height: 1.8;
 }
 
